@@ -1,0 +1,8 @@
+Użyłbym złącza Molex do prądów około 3-5A
+https://botland.com.pl/zlacza-4-pinowe/4639-przewod-zasilajacy-molex-do-mini-molex-molex-15cm-5901720131362.html
+
+Natomiast dla sygnałów użyłbym mini molex
+https://elektroniksc.com.pl/zlacza-kk-254-2-54mm/wtyk-meski-kk-254-4-pin-prosty-na-pcb-do-druku-1x4-r-2-54mm-22232041-molex-rohs-opakowanie-100szt/
+wraz z odpowiadającą mu wtyczką
+
+Złącze molex te z pierwszego linku jest przystosowane do większych prądów (jest używane w pc)

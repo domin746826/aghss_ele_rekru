@@ -1,0 +1,11 @@
+według schematu z rekrutacji
+c5 c6 https://allegro.pl/oferta/kondensator-tantalowy-smd-d-22uf-20v-low-esr-x5-7732990040
+c7 c8 c1 c3 zwykłe kondensatory smd 1206
+c2 analogicznie jak c5 c6 ale o wartości 10uF
+d1 https://jm.pl/en/smbj33ca-13-f-transil-diode-33v-600w/9207585/produkt/
+l1 https://allegro.pl/oferta/dlawik-6-8uh-3-7a-smd-8040-nr8040t6r8-x10szt-12605259532
+r1 r2 r3 jakiekolwiek rezystory obudowa 1206 (lub mniejsza)
+c4 801 obudowa jakiekolwiek też okej
+D1 obudowa smb
+d2 obudowa 805
+
